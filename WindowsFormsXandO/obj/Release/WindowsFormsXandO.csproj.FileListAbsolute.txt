@@ -1,0 +1,6 @@
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.TicTacToe.resources
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Release\WindowsFormsXandO.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.exe.config
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.exe
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.pdb
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csprojResolveAssemblyReference.cache
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.Properties.Resources.resources
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.GenerateResource.Cache
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.exe
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.pdb
+E:\Visual C++\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.TicTacToe.resources
+E:\Facultate\An IV\Inteligenta artificiala\TicTacToeProiect\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.exe.config
+E:\Facultate\An IV\Inteligenta artificiala\TicTacToeProiect\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.exe
+E:\Facultate\An IV\Inteligenta artificiala\TicTacToeProiect\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.pdb
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.exe.config
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.exe
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\bin\Debug\WindowsFormsXandO.pdb
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.TicTacToe.resources
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.exe
+C:\Users\Bogdan\Desktop\WindowsFormsXandO\WindowsFormsXandO\obj\Debug\WindowsFormsXandO.pdb
