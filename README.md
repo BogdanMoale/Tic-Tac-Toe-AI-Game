@@ -2,7 +2,6 @@
 
  C# Windows Forms application for a Tic-Tac-Toe game. Two-player game where the user plays against the computer. The computer's moves are determined using either the MiniMax or Alpha-Beta pruning algorithm, depending on the selected option from the ComboBox.
 
- ![Screenshot](capture.png)
 
 # MinMax algorithm
 This method is responsible for making the computer's move using the MiniMax algorithm in the Tic-Tac-Toe game. Let's go through the method step by step
